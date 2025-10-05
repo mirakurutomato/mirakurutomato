@@ -1,6 +1,6 @@
 # mirakurutomato — 奥河 董馬 (Toma Okugawa)
 
-**未来の学びをつくるエンジニア / 高専生 / Wakuwaku of the Future Lab 代表**
+**高専生 / Wakuwaku of the Future Lab 代表**
 
 <!-- Language selector badges (link to page anchors) -->
 [![日本語](https://img.shields.io/badge/日本語-JP-555?style=flat-square)](#jp)
