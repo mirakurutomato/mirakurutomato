@@ -11,7 +11,7 @@
 <h2 id="jp">日本語版</h2>
 
 <!-- Simple link-style badges -->
-[![Profile](https://img.shields.io/badge/Profile-プロフィール-0A0?style=flat-square&logo=aboutdotme)](https://mirakurutomato.github.io/Toma_Okugawa/html/home.html)
+[![Profile](https://img.shields.io/badge/Profile-プロフィール-0A0?style=flat-square&logo=aboutdotme)](https://mirakurutomato.github.io/Toma_Okugawa/html/)
 [![Wakuwaku](https://img.shields.io/badge/Wakuwaku-活動-6F42C1?style=flat-square&logo=education)](https://mirakurutomato.github.io/WakuwakuFuture/)
 
 ## 概要
@@ -45,14 +45,14 @@
 
 ## リンク
 
-- [ホームページ（プロフィール）](https://mirakurutomato.github.io/Toma_Okugawa/html/home.html)  
+- [ホームページ（プロフィール）](https://mirakurutomato.github.io/Toma_Okugawa/html/)  
 - [Wakuwaku of the Future（活動ページ）](https://mirakurutomato.github.io/WakuwakuFuture/)
 
 ---
 
 <h2 id="en">English version</h2>
 
-[![Profile](https://img.shields.io/badge/Profile-About-0A0?style=flat-square&logo=aboutdotme)](https://mirakurutomato.github.io/Toma_Okugawa/html/home.html)
+[![Profile](https://img.shields.io/badge/Profile-About-0A0?style=flat-square&logo=aboutdotme)](https://mirakurutomato.github.io/Toma_Okugawa/html/)
 [![Wakuwaku](https://img.shields.io/badge/Wakuwaku-Future-6F42C1?style=flat-square&logo=education)](https://mirakurutomato.github.io/WakuwakuFuture/)
 
 ## Summary
@@ -86,7 +86,7 @@
 
 ## Links
 
-- [Profile / Homepage](https://mirakurutomato.github.io/Toma_Okugawa/html/home.html)  
+- [Profile / Homepage](https://mirakurutomato.github.io/Toma_Okugawa/html/)  
 - [Wakuwaku of the Future (Activities)](https://mirakurutomato.github.io/WakuwakuFuture/)
 
 ---
