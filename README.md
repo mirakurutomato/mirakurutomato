@@ -124,19 +124,20 @@ https://mirakurutomato.github.io/Toma_Okugawa/
 
 - **September 2025**  
   Toma Okugawa, Tomonari Masuzaki, Takahiro Makiyama  
-  **“Kyudo Form Evaluation via Real-time Pose Estimation and Web Implementation”**  
-  Joint Convention of Institutes of Electrical and Information Engineers, Shikoku Branch
+  **“Proposal and Web Implementation of a Kyudo Form Evaluation Method
+Based on Real-Time Pose Estimation”**  
+  Shikoku-section Joint Convention of the Institutes of Electrical and Related Engineers
 
 ### Preprints (Jxiv)
 
 - **November 2025**  
   Toma Okugawa  
-  **“XCR: A Fast and Structure-Preserving Retinex Method Based on Complex Exponential Kernels”**  
+  **“A High-Speed and Structure-Preserving Retinex Method Based on a Complex Exponential Kernel: XCR”**  
   DOI: https://doi.org/10.51094/jxiv.1961
 
 - **November 2025**  
   Toma Okugawa  
-  **“Fast Single-Scale Retinex and Evaluation of Real-time Skeleton Detection Performance in Low-light Environments”**  
+  **“Proposal of Fast Single-Scale Retinex and Evaluation of Real-Time Human Pose Estimation Performance under Low-Light Conditions”**  
   DOI: https://doi.org/10.51094/jxiv.1897
 
 ---
