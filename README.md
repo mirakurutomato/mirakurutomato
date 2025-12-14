@@ -105,7 +105,7 @@ https://mirakurutomato.github.io/Toma_Okugawa/
 ## Profile
 
 **Toma Okugawa**  
-2nd-year student, Department of Information Engineering  
+2nd-year student, Information Science and Technology Department  
 National Institute of Technology, Yuge College  
 Representative, Wakuwaku of the Future Lab  
 Email: i24010@yuge.kosen.ac.jp  
