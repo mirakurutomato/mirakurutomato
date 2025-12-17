@@ -1,22 +1,17 @@
 # Toma Okugawa / 奥河 董馬
 
-<details open>
-<summary><strong>🇯🇵 日本語</strong></summary>
-
----
-
 ## 基本情報
 
 **奥河 董馬（おくがわ とうま）**  
 弓削商船高等専門学校 情報工学科 2年  
 Wakuwaku of the Future Lab 代表  
-Email: i24010@yuge.kosen.ac.jp  
+Email: <i24010@yuge.kosen.ac.jp>  
 
 低照度画像強調および姿勢推定を中心とした Computer Vision 分野の研究に従事。  
 理論設計から Web 実装・リアルタイム処理まで一貫した研究開発を行う。
 
 ポートフォリオ:  
-https://mirakurutomato.github.io/Toma_Okugawa/
+<https://mirakurutomato.github.io/Toma_Okugawa/>
 
 ---
 
@@ -34,16 +29,19 @@ https://mirakurutomato.github.io/Toma_Okugawa/
 - **2025年11月**  
   奥河 董馬  
   **「複素指数カーネルに基づく高速・構造保持型 Retinex 手法 XCR の提案」**  
-  DOI: https://doi.org/10.51094/jxiv.1961
+  DOI: <https://doi.org/10.51094/jxiv.1961>
 
 - **2025年11月**  
   奥河 董馬  
   **「Fast Single-Scale Retinex の提案と低照度環境におけるリアルタイム骨格検出性能の評価」**  
-  DOI: https://doi.org/10.51094/jxiv.1897
+  DOI: <https://doi.org/10.51094/jxiv.1897>
 
 ---
 
 ## 経歴・活動
+
+- **2025年11月 – 現在**  
+  DCON 一次審査通過チーム（クラッシュレス） ソフトウェア責任者
 
 - **2025年9月 – 現在**  
   Wakuwaku of the Future Lab 代表
@@ -67,6 +65,9 @@ https://mirakurutomato.github.io/Toma_Okugawa/
 
 ## 受賞
 
+- **2025年12月**  
+  第25回 日本情報オリンピック予選 敢闘賞
+
 - **2025年10月**  
   電気・電子・情報関係学会四国支部連合大会 優秀発表賞
 
@@ -80,122 +81,14 @@ https://mirakurutomato.github.io/Toma_Okugawa/
 
 ## 技術スキル
 
-- 低照度画像強調（Retinex 系手法、XCR）
-- 姿勢推定・リアルタイム骨格検出
-- Python / HTML / CSS / JavaScript
-- 数値解析・アルゴリズム設計・研究プロトタイピング
+- Python
+- MySQL
+- Django
+- Low-Light Image Enhancement
+- Human Pose Estimation
+- Sports Analytics
+- Prompt Engineering
 
 ---
 
-## プロジェクト（一部）
-
-- わくわく HTML / CSS 入門
-- わくわく Python 入門
-- 席替え Web アプリ
-
----
-
-</details>
-
-<details>
-<summary><strong>🇺🇸 English</strong></summary>
-
----
-
-## Profile
-
-**Toma Okugawa**  
-2nd-year student, Information Science and Technology Department  
-National Institute of Technology, Yuge College  
-Representative, Wakuwaku of the Future Lab  
-Email: i24010@yuge.kosen.ac.jp  
-
-My research focuses on Computer Vision, particularly low-light image enhancement and human pose estimation.  
-I work across theory, algorithm design, and real-time web implementation.
-
-Portfolio:  
-https://mirakurutomato.github.io/Toma_Okugawa/
-
----
-
-## Research
-
-### Conference Presentation (Oral)
-
-- **September 2025**  
-  Toma Okugawa, Tomonari Masuzaki, Takahiro Makiyama  
-  **“Proposal and Web Implementation of a Kyudo Form Evaluation Method
-Based on Real-Time Pose Estimation”**  
-  Shikoku-section Joint Convention of the Institutes of Electrical and Related Engineers
-
-### Preprints (Jxiv)
-
-- **November 2025**  
-  Toma Okugawa  
-  **“A High-Speed and Structure-Preserving Retinex Method Based on a Complex Exponential Kernel: XCR”**  
-  DOI: https://doi.org/10.51094/jxiv.1961
-
-- **November 2025**  
-  Toma Okugawa  
-  **“Proposal of Fast Single-Scale Retinex and Evaluation of Real-Time Human Pose Estimation Performance under Low-Light Conditions”**  
-  DOI: https://doi.org/10.51094/jxiv.1897
-
----
-
-## Experience & Activities
-
-- **Sep 2025 – Present**  
-  Representative, Wakuwaku of the Future Lab
-
-- **Oct 2025**  
-  KOSEN Security Contest 2025 (11th place)
-
-- **Oct 2025**  
-  National Institute of Technology Programming Contest (36th Matsue) — Participant / Demo
-
-- **Sep 2025**  
-  Security Camp Mini 2025 (Kagawa), Specialized Track
-
-- **Aug 2025**  
-  LEADING EDGE Shikoku — Selected
-
-- **Apr 2024**  
-  Enrolled in NIT Yuge College, Department of Information Engineering
-
----
-
-## Awards
-
-- **Oct 2025**  
-  Excellent Presentation Award — Shikoku Branch Joint Convention
-
-- **Oct 2025**  
-  Fighting Spirit Award — NIT Programming Contest (36th Matsue)
-
-- **Apr 2025**  
-  Excellent Student Award — Department of Information Engineering, NIT Yuge
-
----
-
-## Technical Skills
-
-- Low-light image enhancement (Retinex-based methods, XCR)
-- Pose estimation and real-time skeleton detection
-- Python / HTML / CSS / JavaScript
-- Numerical analysis, algorithm design, research prototyping
-
----
-
-## Selected Projects
-
-- Wakuwaku HTML / CSS Introduction
-- Wakuwaku Python Introduction
-- Seat Shuffle Web Application
-
----
-
-</details>
-
----
-
-*Last updated: 2025-12-14*
+*Last updated: 2025-12-17*
