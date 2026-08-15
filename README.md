@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-t--okugawa.dev-00489D?style=flat)](https://t-okugawa.dev)
 [![researchmap](https://img.shields.io/badge/researchmap-t__okugawa-00489D?style=flat)](https://researchmap.jp/t_okugawa)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3553--0617-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3553-0617)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-t__okugawa-009287?style=flat&logo=speakerdeck&logoColor=white)](https://speakerdeck.com/t_okugawa)
 [![Email](https://img.shields.io/badge/Email-i24010%40yuge.kosen--ac.jp-555555?style=flat)](mailto:i24010@yuge.kosen-ac.jp)
 
 I work on **human pose estimation** and **motion analysis** for self-directed learning support systems with
@@ -72,3 +73,4 @@ evaluation — and on **low-light image enhancement**, where I proposed the Reti
 - **Portfolio (EN / JA)**: [t-okugawa.dev](https://t-okugawa.dev)
 - **researchmap**: [researchmap.jp/t_okugawa](https://researchmap.jp/t_okugawa)
 - **ORCID**: [0009-0007-3553-0617](https://orcid.org/0009-0007-3553-0617)
+- **Speaker Deck**: [speakerdeck.com/t_okugawa](https://speakerdeck.com/t_okugawa)
