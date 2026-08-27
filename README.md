@@ -45,7 +45,9 @@
 
 <sub>Next.js 16 on Cloudflare Workers (OpenNext) · Firebase Auth *without* firebase-admin · R2 signed video streaming · serial-code billing, no payment processor · bilingual ja/en · an AI study assistant grounded in the site's own library</sub>
 
-<sub>Open-sourced under AGPL-3.0 as a reference implementation. *Next up: extracting the Workers-compatible Firebase layer and the OpenNext secret-stripping script into standalone MIT libraries.*</sub>
+<sub>Open-sourced under AGPL-3.0 as a reference implementation. *Next up: extracting the Workers-compatible Firebase layer and the OpenNext secret-stripping script into standalone MIT libraries.*
+
+✍️ **Latest write-up:** [Firebase Admin SDK won't run on Cloudflare Workers, so I replaced it with fetch + WebCrypto](https://dev.to/t_okugawa/firebase-admin-sdk-wont-run-on-cloudflare-workers-so-i-replaced-it-with-fetch-webcrypto-3j9e) (dev.to)</sub>
 
 </td>
 </tr>
