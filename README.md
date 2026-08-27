@@ -36,8 +36,8 @@
 <td width="46%" valign="top">
 <a href="https://github.com/toma-okugawa/okugawa-lab">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toma-okugawa&repo=okugawa-lab&bg_color=0f1f22&border_color=1f3a3f&title_color=4dbec7&icon_color=4dbec7&text_color=a9c3c6">
-  <img alt="okugawa-lab repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=toma-okugawa&repo=okugawa-lab&bg_color=ffffff&border_color=dde7e8&title_color=2e9aa4&icon_color=2e9aa4&text_color=52666a" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-okugawa-lab-dark.svg">
+  <img alt="okugawa-lab — membership video platform running in production entirely on the edge (TypeScript, AGPL-3.0)" src="assets/card-okugawa-lab-light.svg" width="100%">
 </picture>
 </a>
 </td>
