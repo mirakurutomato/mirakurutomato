@@ -14,8 +14,6 @@
 <a href="https://speakerdeck.com/t_okugawa"><img alt="Speaker Deck" src="https://img.shields.io/badge/Speaker_Deck-t__okugawa-009287?style=flat-square&logo=speakerdeck&logoColor=white"></a>&nbsp;
 <a href="mailto:i24010@yuge.kosen-ac.jp"><img alt="Email" src="https://img.shields.io/badge/Email-i24010%40yuge.kosen--ac.jp-1a2b2e?style=flat-square"></a>
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-v2-dark.svg">
   <img alt="Highlights: IEEE GCCE 2026 lead author · 6 papers and talks · 4 awards at the Tongali 2026 finals · 16.7k lines shipped as open source" src="assets/stats-v2-light.svg" width="100%">
