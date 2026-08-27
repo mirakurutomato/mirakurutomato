@@ -36,8 +36,8 @@
 <td width="46%" valign="top">
 <a href="https://github.com/toma-okugawa/okugawa-lab">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-okugawa-lab-dark.svg">
-  <img alt="okugawa-lab — membership video platform running in production entirely on the edge (TypeScript, AGPL-3.0)" src="assets/card-okugawa-lab-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-okugawa-lab-v2-dark.svg">
+  <img alt="okugawa-lab — membership video platform running in production entirely on the edge (TypeScript, AGPL-3.0)" src="assets/card-okugawa-lab-v2-light.svg" width="100%">
 </picture>
 </a>
 </td>
