@@ -31,7 +31,7 @@
 
 <table>
 <tr>
-<td width="46%" valign="top">
+<td width="46%" valign="middle">
 <a href="https://github.com/toma-okugawa/okugawa-lab">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-okugawa-lab-v2-dark.svg">
