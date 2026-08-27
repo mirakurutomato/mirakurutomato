@@ -5,7 +5,7 @@
   <img alt="Toma Okugawa — builds and researches computer-vision systems for people who learn on their own" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<br>
+<br><br>
 
 <a href="https://t-okugawa.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-t--okugawa.dev-14545b?style=flat-square"></a>&nbsp;
 <a href="https://github.com/toma-okugawa/okugawa-lab"><img alt="Okugawa Lab on GitHub" src="https://img.shields.io/badge/Okugawa_Lab-open_source-2e9aa4?style=flat-square&logo=github&logoColor=white"></a>&nbsp;

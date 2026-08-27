@@ -25,12 +25,12 @@
     <text class="dsc" x="32" y="112">Membership video platform running in production, entirely on the edge.</text>
     <text class="dsc" x="32" y="136">Next.js 16 · Cloudflare Workers · Firebase (no firebase-admin) · R2 · ja / en</text>
   </g>
-  <g class="in i3" transform="translate(32 166)">
+  <g transform="translate(32 166)"><g class="in i3">
     <rect width="112" height="28" rx="14" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)"/><circle cx="16" cy="14" r="5" fill="#3178c6"/><text class="chip" x="28" y="18.5">TypeScript</text>
     <g transform="translate(122 0)"><rect width="88" height="28" rx="14" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)"/><text class="chip" x="44" y="18.5" text-anchor="middle">AGPL-3.0</text></g>
     <g transform="translate(220 0)"><rect width="96" height="28" rx="14" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)"/><text class="chip" x="48" y="18.5" text-anchor="middle">Production</text></g>
     <g transform="translate(326 0)"><rect width="182" height="28" rx="14" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.2)"/><text class="chip" x="91" y="18.5" text-anchor="middle">Reference implementation</text></g>
-  </g>
+  </g></g>
   <g class="in i4">
     <line x1="32" y1="216" x2="568" y2="216" stroke="#1f3a3f"/>
     <text class="lnk" x="32" y="248">View the repository  →</text>
